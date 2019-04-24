@@ -1,0 +1,16 @@
+label {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+label:last-child {
+  margin: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+input[type="number"] {
+  width: 169px;
+}
